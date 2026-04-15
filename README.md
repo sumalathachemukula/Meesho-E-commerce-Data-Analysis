@@ -7,7 +7,7 @@ A comprehensive Power BI analysis focusing on revenue performance, cancellation 
 
 ### 1. Cancellation & Revenue Loss Analysis
 This page focuses on identifying where the business is losing money due to cancelled orders across different states and categories.
-![Cancellation Analysis](Screenshot%202026-04-15%20101440.png)
+![Cancellation Analysis](Screenshot%202026-04-15%20123426.png)
 
 ### 2. Revenue Leakage & Order Performance
 A deep dive into the ratio of delivered revenue versus losses, featuring an order status breakdown and delivery day metrics.
